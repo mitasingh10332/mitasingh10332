@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hello, I'm Mita Singh Mimrot!
 
-<!--
-**mitasingh10332/mitasingh10332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-year engineering student at Acropolis Institute of Technology and Research, majoring in CSE.
 
-Here are some ideas to get you started:
+🔥 Worked on exciting projects like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - Career Guidance System.
+   - Hand-Based Gesture Recognition System.
+   - Weather Forecasting App.
+   - Netflix Clone.
+   - Rock Paper Scissors Game.
+     
+🏆 Participated in the KRIYETA hackathon, where my team and I built a social media app from scratch.
+
+🌐 Interested in Web Development and AWS. Actively learning and exploring these areas to enhance my skills.
+
+🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/mita-singh- | ✉️ Email: mitasingh10332@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitasingh10332&layout=compact)
