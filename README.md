@@ -11,7 +11,7 @@
    - Netflix Clone.
    - Rock Paper Scissors Game.
      
-🏆 Participated in the KRIYETA hackathon, where my team and I built a social media app from scratch.
+🏆 Participated in the KRIYETA hackathon, where my team and I built a Social Media App from scratch.
 
 🌐 Interested in Web Development and AWS. Actively learning and exploring these areas to enhance my skills.
 
